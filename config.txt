@@ -1,0 +1,13 @@
+﻿prefix = .
+token= NTA3NDgyOTg0NzY1NzE4NTM5.DsDOuw.nyDHzJrkIT8j3SNucle1CXtbZrc
+owner= 428285710588444694
+game=Listening to .play .. Mx
+status=dnd
+songinstatus=true
+success=🎶
+warning=💡
+error=🚫
+loading=⌚
+searching=🔎
+help=333cmds
+stayinchannel=true
