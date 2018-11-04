@@ -1,7 +1,7 @@
-﻿prefix = .
+prefix = r
 token= NTA3NDgyOTg0NzY1NzE4NTM5.DsDOuw.nyDHzJrkIT8j3SNucle1CXtbZrc
 owner= 428285710588444694
-game=Listening to .play .. Mx
+game=Listening to rplay .. Mx
 status=dnd
 songinstatus=true
 success=🎶
