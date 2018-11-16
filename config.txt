@@ -1,7 +1,7 @@
 prefix = w
 token= NTEwMTUyODEwMDYzNTkzNDcz.DsYMhw.G_YyEDPAgR7zko-glk1HyIhlw70
 owner= 428285710588444694
-game=Listening to wplay .. ..
+game=Listening to WHelp
 status=dnd
 songinstatus=true
 success=🎶
