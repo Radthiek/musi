@@ -1,5 +1,5 @@
 prefix = w
-token= NTEwMTUyODEwMDYzNTkzNDcz.DsYMhw.G_YyEDPAgR7zko-glk1HyIhlw70
+token= NTA3NDgyOTg0NzY1NzE4NTM5.DtAkmQ.S3OSez_DEOWyczwy0ublQ3mNgdc
 owner= 428285710588444694
 game=Listening to WHelp
 status=dnd
